@@ -2,117 +2,135 @@
 
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=200&section=header&text=Kunal%20Tailor%20🚀&fontSize=45&fontColor=ffffff)
 
-💻 **Full Stack Developer | Cloud & DevOps Enthusiast | Data Engineering & AI Learner**
+💻 **Full Stack Engineer | AI-Driven Systems Builder | Cloud & DevOps Enthusiast**
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 I'm currently pursuing **B.Tech in Computer Science (AIDS)** at **MIT-WPU, Pune**.  
-💡 Passionate about building **end-to-end systems** — from backend APIs to cloud deployment.  
-🚀 Skilled in **MERN Stack**, **Java**, and **Python** for developing scalable web solutions.  
-☁️ Exploring **DevOps**, **Cloud Computing**, and **Data Engineering** workflows.  
-⚙️ Always excited to automate, optimize, and ship high-performance applications.  
-🌱 Currently deep-diving into **Microservices**, **Machine Learning**, and **MLOps**.
+🎓 B.Tech CSE (AI & Data Science) student at **MIT-WPU, Pune**  
+🚀 Passionate about engineering **scalable, production-ready applications**  
+
+I specialize in building **end-to-end systems** — from backend architecture to cloud deployment — with a strong focus on performance, scalability, and clean design.
+
+💡 Core Strengths:
+
+- Full Stack Development (MERN + Java)
+- Real-Time Systems & WebRTC
+- REST API Architecture
+- Cloud Deployment & CI/CD
+- Database Design
+- AI-powered applications
+
+⚙️ I don’t just build projects — I build **deployable products.**
 
 ---
 
-## 🧰 Tech Toolbox  
+## 🚀 Featured Projects (Production-Oriented)
 
-### 💻 Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+### 🌍 Wanderlust — Travel Booking Platform  
+🔗 https://wander-4.onrender.com/
 
----
+A full-stack travel platform enabling users to explore destinations, book stays, and share reviews.
 
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+**Tech:** Node.js, Express, MongoDB, EJS  
+
+✔ Authentication & Authorization  
+✔ Image Upload + Cloud Storage  
+✔ Interactive Maps  
+✔ RESTful Architecture  
+
+👉 Demonstrates strong backend engineering and database design.
 
 ---
 
-### 🧩 Tools & Platforms
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+### 📊 TradeSphere — Modern Trading Dashboard  
+🔗 https://frontend-rt43.vercel.app/
+
+A high-performance trading interface inspired by real-world fintech platforms.
+
+**Tech:** React.js, Tailwind CSS  
+
+✔ Advanced UI Architecture  
+✔ Responsive Design  
+✔ Analytics-ready layout  
+
+👉 Highlights frontend engineering and product design skills.
 
 ---
 
-## 🚀 Featured Projects  
+### 🎥 EchoMeet — Real-Time Video Communication Platform  
+🔗 https://vid-connector-vz5e.vercel.app/
 
-### 🌍 [Wanderlust](https://wander-4.onrender.com/)
-A full-stack **travel booking and exploration app** inspired by Airbnb.  
-- Built with **Node.js**, **Express**, **MongoDB**, and **EJS**  
-- Features: authentication, user reviews, image uploads, and map integration  
+A browser-based peer-to-peer video platform enabling low-latency communication.
 
----
+**Tech:** WebRTC, Socket.io, React, Node.js  
 
-### 📈 [Zerodha Clone](https://frontend-rt43.vercel.app/)
-A **React-based clone** of Zerodha’s trading dashboard.  
-- Built with **React.js** and **Tailwind CSS**  
-- Features: modern UI, stock analytics layout, and smooth responsiveness  
+✔ Real-time media streaming  
+✔ Peer-to-peer architecture  
+✔ Event-driven backend  
 
----
-
-### 🎥 [VideoChat Connector](https://vid-connector-vz5e.vercel.app/)
-A real-time **video chat application** using **WebRTC** and **Socket.io**.  
-- Built with **Node.js**, **React**, and **PeerJS**  
-- Enables instant peer-to-peer video calls in the browser  
+👉 Strong proof of systems engineering ability.
 
 ---
 
-## 🏆 Achievements & Highlights
+## 🏆 Engineering Highlights
 
-✅ Deployed multiple production apps on **Render**, **Vercel**, and **Netlify**  
-✅ Designed **MongoDB schemas** and built **RESTful APIs** for dynamic data handling  
-✅ Integrated **CI/CD pipelines** with GitHub Actions  
-✅ Created **real-time communication** apps using **WebRTC and Socket.io**  
-✅ Strong in **Java, MERN stack**, and **DevOps principles**  
-✅ Active participant in hackathons & open-source contributions  
+✅ Deployed multiple scalable apps on **Render, Vercel, and Netlify**  
+✅ Designed production-style **MongoDB schemas**  
+✅ Built secure **REST APIs**  
+✅ Implemented **CI/CD pipelines**  
+✅ Engineered **real-time communication systems**  
+✅ Comfortable working across **frontend, backend, and infrastructure**
 
 ---
 
-## 📚 Currently Learning  
+## 🧠 Currently Advancing Into
 
-🔸 **Spring Boot & Java Microservices**  
-🔸 **Data Engineering** (Airflow, Kafka, and Spark)  
-🔸 **AWS Deployments** & Infrastructure as Code (Terraform)  
-🔸 **AI & ML Integration** with full-stack apps  
+- Java Microservices (Spring Boot)  
+- Data Engineering (Kafka, Spark, Airflow)  
+- AWS Architecture  
+- MLOps  
+- Distributed Systems  
+
+👉 Transitioning toward **Software Engineering & Backend-heavy roles.**
+
+---
+
+## 🧰 Tech Stack
+
+### Languages  
+Python • Java • C++ • JavaScript  
+
+### Frameworks  
+React • Node.js • Express  
+
+### Databases  
+MongoDB • MySQL  
+
+### Cloud & DevOps  
+AWS • Docker • Kubernetes • GitHub Actions • Linux  
+
+### Tools  
+Git • Postman • IntelliJ • VS Code  
 
 ---
 
 ## 📊 GitHub Stats  
 
 ![Kunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kunal-Tailor&show_icons=true&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=Kunal-Tailor&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kunal-Tailor&layout=compact&theme=radical)  
-![Profile Views](https://komarev.com/ghpvc/?username=Kunal-Tailor&color=blueviolet&style=flat-square)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Kunal-Tailor&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kunal-Tailor&layout=compact&theme=radical)
 
 ---
 
-## 📫 Connect with Me  
+## 📫 Connect With Me  
 
-🌐 **Portfolio:** [portfolio-kunal-duhj.onrender.com](https://portfolio-kunal-duhj.onrender.com)  
-📧 **Email:** [kunaltailor5555@gmail.com](mailto:kunaltailor5555@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/kunal-tailor-54b054287](https://www.linkedin.com/in/kunal-tailor-54b054287/)  
-🐙 **GitHub:** [github.com/Kunal-Tailor](https://github.com/Kunal-Tailor)
+🌐 Portfolio: https://portfolio-kunal-duhj.onrender.com  
+📧 kunaltailor5555@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/kunal-tailor-54b054287/  
+🐙 GitHub: https://github.com/Kunal-Tailor  
 
 ---
 
-> “Talk is Cheap. Show me the Code.” – *Linus Torvalds*  
-
-![Footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:2575FC,100:6A11CB&height=100)
+> “First, solve the problem. Then, write the code.” – John Johnson
