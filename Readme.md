@@ -194,7 +194,6 @@ I'm a passionate engineer who builds **end-to-end, production-ready systems** â€
 
 <div align="center">
 
-![Kunal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kunal-Tailor&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Kunal-Tailor&theme=radical&hide_border=true)
 
