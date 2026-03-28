@@ -120,7 +120,6 @@ I'm a passionate engineer who builds **end-to-end, production-ready systems** �
 
 ## 🧰 Tech Stack
 
-## 🧰 Tech Stack
 
 <div align="center">
 
