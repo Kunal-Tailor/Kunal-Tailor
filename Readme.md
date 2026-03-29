@@ -21,12 +21,36 @@ I'm a passionate engineer who builds **end-to-end, production-ready systems** �
 ```
 ⚡ Full Stack Development (MERN + Java)     🔗 Blockchain & Web3 (Ethereum, Solidity, IPFS)
 🤖 AI / ML Systems                          ☁️  Cloud & DevOps (AWS, Docker, CI/CD)
-📡 Real-Time Systems (WebRTC, WebSockets)   🛠️  REST API Architecture & Database Design
+📡 Real-Time Systems (WebRTC, WebSockets)   🧠  Deep Learning & Computer Vision
+🛠️  REST API Architecture & Database Design  🩺  Medical AI & Edge Inference
 ```
 
 ---
 
 ## 🚀 Featured Projects
+
+### 🩺 [VaniCure — AI Respiratory Diagnostics Platform](https://github.com/Kunal-Tailor/VaniCure)
+> Offline-first medical screening app using multi-model deep learning for TB & Asthma risk prediction
+
+**Tech:** Python · PyTorch · PANNs (CNN14) · YAMNet · CNN-BiLSTM · FastAPI · React · librosa  
+- Multi-model deep learning pipeline analyzing respiratory audio (coughs, breathing) achieving **>0.87 F1** on targeted datasets
+- Integrated PANNs (CNN14) for feature extraction, YAMNet for fast anomaly recognition, custom CNN-BiLSTM for final classification
+- Fully local FastAPI backend — **zero cloud dependencies**, ensuring complete patient privacy
+- React dashboard with patient record management, real-time risk scoring, and dynamic outbreak cluster alerts
+
+---
+
+### 🚗 [Local AI Dashcam Incident Explainer — Computer Vision Pipeline](https://github.com/Kunal-Tailor/Local-AI-Dashcam-Incident-Explainer)
+> Fully local, privacy-preserving dashcam incident analysis using a 5-phase computer vision pipeline
+
+**Tech:** Python · YOLO11 · SORT (Kalman + Hungarian) · Farneback Optical Flow · FFmpeg · MiniCPM-V · Mistral 7B · Ollama · OpenCV  
+- YOLO11 object detection with SORT tracking + Farneback optical flow for velocity anomaly detection
+- Automatic ±5s incident clip extraction via FFmpeg; MiniCPM-V (8B VLM) for structured JSON incident narration
+- Mistral 7B generates professional insurance prose reports — **all running locally via Ollama**
+- Privacy enforcement via OpenCV DNN face blurring and heuristic licence plate obscuring
+- Evaluated with BLEU-4 and ROUGE-L against CCD, DoTA, and DADA-2000 datasets
+
+---
 
 ### 🔐 [DocVerify — Blockchain Document Verification System](https://github.com/Kunal-Tailor/Blockchain-Based-Document-verification-system)
 > Decentralized DApp on Ethereum (Sepolia Testnet) to combat document forgery
@@ -120,7 +144,6 @@ I'm a passionate engineer who builds **end-to-end, production-ready systems** �
 
 ## 🧰 Tech Stack
 
-
 <div align="center">
 
 **Languages**  
@@ -146,6 +169,7 @@ I'm a passionate engineer who builds **end-to-end, production-ready systems** �
 **Backend**  
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 
@@ -175,9 +199,16 @@ I'm a passionate engineer who builds **end-to-end, production-ready systems** �
 
 **AI & ML**  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+**Computer Vision & Deep Learning**  
+![YOLO](https://img.shields.io/badge/YOLO11-00FFFF?style=flat-square&logo=opencv&logoColor=black)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
+![librosa](https://img.shields.io/badge/librosa-8A2BE2?style=flat-square&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white)
 
 **Tools & Productivity**  
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
@@ -193,13 +224,11 @@ I'm a passionate engineer who builds **end-to-end, production-ready systems** �
 
 <div align="center">
 
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Kunal-Tailor&theme=radical&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kunal-Tailor&layout=compact&theme=radical&hide_border=true)
 
 </div>
-
 
 ---
 
@@ -211,6 +240,7 @@ I'm a passionate engineer who builds **end-to-end, production-ready systems** �
 🔸 AWS Architecture (Solutions Architect track)
 🔸 MLOps & Model Deployment
 🔸 Distributed Systems Design
+🔸 Edge AI & On-Device Inference
 ```
 
 > Transitioning toward **Software Engineering & Backend-heavy roles**.
